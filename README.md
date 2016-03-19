@@ -41,7 +41,7 @@ AI Mode :
 
 Game Start :
  - CPU Control one paddle (AI mode).
- - Player control one paddle with 2 key (2 Players Mode : second Player control other paddle with other key).
+ - Player control one paddle with 2 keys (2 Players Mode : second Player control other paddle with 2 other keys).
  - CPU reset ball for each point.
  - End Game when max score is reaches.
 
